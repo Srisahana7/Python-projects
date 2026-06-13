@@ -12,9 +12,8 @@ This repository contains my Python learning projects as I build my programming s
 2. Quiz Game
 3. Stone Paper Scissors
 4. Guess the Number
-5. Calculator V1
-6. Calculator V2 (Real-Time Chaining)
-7. Contact Book V1 (CRUD Operations)
+5. Calculator (Real-Time Chaining)
+6. Contact Book (CRUD Operations)
 
 ## Project Highlights
 
